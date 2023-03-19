@@ -85,6 +85,7 @@ nav > ul a,
     position: absolute;
     top: 410px;
     left: 130px;
+    width: 1200px;
     font-weight: 700;
     font-size: 50px;
     color: var(--mainColor);
