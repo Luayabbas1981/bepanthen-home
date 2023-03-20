@@ -11,10 +11,10 @@
 
 - Bootstrap
 
-#### man nutzt Bootstrap, um den Code abzukurzen und die Zeit zu sparen.
+#### Ich habe Bootstrap genutzt, um den Code abzukurzen und die Zeit zu sparen.
 
 ## Libraries
 
 - Font Awesome
 
-#### man nutzt Font Awesome Library, um verschieden Icons zu erhalten.
+#### Ich habe Font Awesome Library genutzt, um Icons zu erhalten.
