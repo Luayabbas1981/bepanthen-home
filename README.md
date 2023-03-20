@@ -5,7 +5,7 @@
 ## Tools:
 
 - HTML5
-- CCS3
+- CSS3
 
 ## Framework:
 
@@ -17,4 +17,4 @@
 
 - Font Awesome
 
-#### Ich habe Font Awesome Library genutzt, um Icons zu erhalten.
+#### Ich habe Font Awesome Library genutzt, um Icons zu besorgen.

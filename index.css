@@ -1,10 +1,10 @@
 /* 
    Header 20
-   Main / section hero ab 45
-   Main / section instructions ab 133
-   Main / section products ab 214
-   Main/ section form ab 242
-   Footer ab 339
+   Main / section hero ab 49
+   Main / section instructions ab 138
+   Main / section products ab 219
+   Main/ section form ab 247
+   Footer ab 344
 */
 
 * {
@@ -20,6 +20,8 @@ body {
 /* Header */
 
 header {
+    max-width: 100%;
+    min-width: 1444px;
     height: 120px;
     padding: 1rem 2.8rem;
     display: flex;
@@ -47,11 +49,13 @@ nav > ul a,
 #hero {
     position: relative;
     height: 950px;
-    background-image: url("./Images/BAY_Bepanthen_Pollen_Visual_iStock.png");
+    background-image: url("./images/BAY_Bepanthen_Pollen_Visual_iStock.png");
     background-size: cover;
 }
 
 .pollenalarm {
+    max-width: 100%;
+    min-width: 1444px;
     height: 145px;
     padding: 0 2.5rem;
     display: flex;
@@ -61,12 +65,13 @@ nav > ul a,
 }
 
 .alarm {
+    width: 700px;
     font-size: 75px;
     font-weight: 700;
     color: #ff0000;
 }
 .Bepanthen-hilft {
-    width: 40%;
+    width: 700px;
     font-size: 30px;
     line-height: 34px;
     color: var(--mainColor);
@@ -245,7 +250,7 @@ nav > ul a,
     height: 1650px;
     margin: 0 auto;
     color: var(--mainColor);
-    background-image: url("./Images/freestocks-XJSfr6igb3E-unsplash\ 1.png");
+    background-image: url("./images/freestocks-XJSfr6igb3E-unsplash\ 1.png");
     background-size: cover;
     overflow: hidden;
 }
@@ -339,11 +344,13 @@ form img {
 /* Footer */
 
 footer {
+    max-width: 100%;
+    min-width: 1444px;
     padding: 1.5rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("./Images/freestocks-XJSfr6igb3E-unsplash\ 1.png");
+    background-image: url("./images/freestocks-XJSfr6igb3E-unsplash\ 1.png");
     background-position: 0% 94%;
 }
 
