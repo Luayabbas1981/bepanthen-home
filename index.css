@@ -4,7 +4,7 @@
    Main / section instructions ab 138
    Main / section products ab 219
    Main/ section form ab 247
-   Footer ab 344
+   Footer ab 345
 */
 
 * {
@@ -285,12 +285,13 @@ h4:last-of-type {
 [type="text"]/* input:not([type="checkbox"],[type="submit"])*/ {
     width: 100%;
     padding: 0.4rem 0.6rem;
-    opacity: 0.5;
     /* border-radius: .5rem;           optional */
     /* caret-color: var(--mainColor);  optional */
     /* color: var(--mainColor);        optional */
 }
-
+::placeholder{
+    opacity: .5;
+}
 form img {
     width: 100%;
     padding: 2rem 0.7rem;
