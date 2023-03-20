@@ -11,10 +11,10 @@
 
 - Bootstrap
 
-#### Ich habe Bootstrap Framework genutzt, um den Code abzukurzen und die Zeit zu sparen.
+##### Ich habe Bootstrap Framework genutzt, um den Code abzukurzen und die Zeit zu sparen.
 
 ## Libraries:
 
 - Font Awesome
 
-#### Ich habe Font Awesome Library genutzt, um Icons zu besorgen.
+##### Ich habe Font Awesome Library genutzt, um Icons zu besorgen.
