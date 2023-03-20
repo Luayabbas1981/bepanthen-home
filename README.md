@@ -13,7 +13,7 @@
 
 #### Ich habe Bootstrap Framework genutzt, um den Code abzukurzen und die Zeit zu sparen.
 
-## Libraries
+## Libraries:
 
 - Font Awesome
 
